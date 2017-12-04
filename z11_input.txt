@@ -1,0 +1,11 @@
+Nationality plates	Country	Capital	Languages	People
+AL	Albania	Tirana	Albanian	Albanian
+AND	Andorra	Andorra la Vella	Catalan	Andorran
+A	Austria	Vienna	German	Austrian
+BY	Belarus	Minsk	Belarusian	Belarusian
+B	Belgium	Brussels	French/Dutch	Belgian
+BIH	Bosnia and Herzegovina	Sarajevo	Croatian, Serbian	Bosnian
+BG	Bulgaria	Sofia	Bulgarian	Bulgarian
+HR	Croatia	Zagreb	Croatian	Croat
+CY	Cyprus	Lefkosia (Nicosia)	Greek, Turkish	Cyprian, Cypriote
+CZ	Czech Republic	Prague	Czech	Czech
